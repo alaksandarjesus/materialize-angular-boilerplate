@@ -1,0 +1,1 @@
+## Run bower install after cloning the project ##
