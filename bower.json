@@ -1,0 +1,30 @@
+{
+  "name": "material-angular-uirouter-boilerplate",
+  "authors": [
+    "alaksandarjesus <alaksandarjesus@yahoo.co.in>"
+  ],
+  "description": "boilerplate for materializecss, angular, jquery and ui-router",
+  "main": "index.html",
+  "keywords": [
+    "boilerplate",
+    "materializecss",
+    "angular",
+    "ui-router"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "ui-router#^0.3.2",
+    "angular": "angularjs#^1.5.8",
+    "less": "^2.7.1",
+    "font-awesome": "^4.7.0",
+    "materialize": "^0.97.8"
+  }
+}
